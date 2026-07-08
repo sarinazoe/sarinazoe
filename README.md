@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sarina 
 
-<!--
-**sarinazoe/sarinazoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+I am a psychologist and PhD student in the Experimental Pharmacopsychology and Psychological Addiction Research Lab led by Prof. Dr. rer. nat. Boris Quednow.
 
-Here are some ideas to get you started:
+## Research Project 
+I am working on the FALCO project, which investigates the mechanisms underlying music therapy in individuals with substance use disorders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Affiliation 
+- University of Zurich
+- Experimental Pharmacopsychology and Psychological Addiction Research
+
+## Education 
+| Degree | University | Year |
+|--------|-----------|------|
+| PhD    | UZH       | 2024 |
+| MSc    | ...       | ...  |
+
+## Links
+- [LinkedIn](https://linkedin.com/in/your-profile)
